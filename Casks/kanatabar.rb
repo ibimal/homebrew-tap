@@ -1,6 +1,6 @@
 cask "kanatabar" do
-  version "0.1.0"
-  sha256 "2322952f440d395b10969ff0c77692f9b41ec02a2a816e8287d81b0c0c68cc0b"
+  version "0.1.1"
+  sha256 "849db43e0d571eb3b018e285d3c0192ed8a804c886704079dc238ab5912fee6a"
 
   url "https://github.com/ibimal/kanatabar/releases/download/v#{version}/KanataBar-#{version}.pkg"
   name "KanataBar"
